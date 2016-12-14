@@ -11,12 +11,12 @@
  * 全局配置文件
  */
 $_config = array(
-    'PRODUCT_NAME'         => 'lyadmin', // 产品名称
+    'PRODUCT_NAME'         => 'lygit', // 产品名称
     'LOGO_DEFAULT'         => '<b><span style="color: #2699ed;">lygit</span></b>', // 产品Logo
     'LOGO_INVERSE'         => '<b><span style="color: #fff;">lygit</span></b>', // 产品Logo深色背景
     'CURRENT_VERSION'      => '1.0.0', // 当前版本号
-    'DEVELOP_VERSION'      => 'beta1', // 开发版本号
-    'BUILD_VERSION'        => '201612131650', // 编译标记
+    'DEVELOP_VERSION'      => 'release', // 开发版本号
+    'BUILD_VERSION'        => '201612141251', // 编译标记
     'PRODUCT_MODEL'        => 'lygit', // 产品型号
     'PRODUCT_TITLE'        => '零云', // 产品标题
     'WEBSITE_DOMAIN'       => 'http://lygit.lyunweb.com', // 官方网址
