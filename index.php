@@ -79,7 +79,7 @@ if (is_file('./Data/install.lock') === false && @$_SERVER[ENV_PRE . 'DEV_MODE'] 
 /**
  * Composer
  */
-//require './vendor/autoload.php';
+require './Vendor/autoload.php';
 
 /**
  * 引入核心入口

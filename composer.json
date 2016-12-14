@@ -1,0 +1,7 @@
+{
+    "require": {
+        "cypresslab/gitelephant": "~1.0",
+        "kzykhys/git": "dev-master",
+        "erusev/parsedown": "^1.6"
+    }
+}
